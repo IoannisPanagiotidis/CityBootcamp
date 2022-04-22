@@ -11,10 +11,6 @@ void setup(){
 
 void draw(){
 
-//for (int i=0; i<5; i = i+1){
-  //for (int col=0; col<15; col = col+1){
-    //triangle(0 + random(1140), 0 + random(1000), 10, 34, 22, 32);}}
-
  for (int i=0; i<1; i = i+5)
 {
   for (int col=0; col<15; col = col+5)
